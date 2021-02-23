@@ -8,7 +8,7 @@ function mostrar()
 	edadDelAlumno = prompt('ingrese Su edad'), ('19');
 
 
-	alert('Te llamas' + nombreDelAlumno + ' y tenes' + edadDelAlumno + 'años');
+	alert('Te llamas ' + nombreDelAlumno + ' y tenes ' + edadDelAlumno + 'años');
 	
 	
 	

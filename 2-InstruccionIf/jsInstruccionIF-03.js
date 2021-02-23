@@ -15,7 +15,7 @@ function mostrar()
 	underage = parseInt(underage);
 
 
-	if(edad >= 18)
+	if(edad > 19)
 	{
 		alert("Usted es mayor de edad");
 
